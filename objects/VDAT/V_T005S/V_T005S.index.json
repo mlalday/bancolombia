@@ -16,6 +16,24 @@
      },
      {
       "key":"BLAND",
+      "value":"03"
+     }
+    ],
+    "hash":"LGmksSLltFzYUaT0MgOvCoMhs4Q="
+   },
+   {
+    "columns":
+    [
+     {
+      "key":"MANDT",
+      "value":"100"
+     },
+     {
+      "key":"LAND1",
+      "value":"AD"
+     },
+     {
+      "key":"BLAND",
       "value":"04"
      }
     ],
@@ -27,6 +45,28 @@
   "table":"T005U",
   "index":
   [
+   {
+    "columns":
+    [
+     {
+      "key":"MANDT",
+      "value":"100"
+     },
+     {
+      "key":"SPRAS",
+      "value":"E"
+     },
+     {
+      "key":"LAND1",
+      "value":"AD"
+     },
+     {
+      "key":"BLAND",
+      "value":"03"
+     }
+    ],
+    "hash":"XCknMX+Pt83G4NvGborg0P+fiPw="
+   },
    {
     "columns":
     [

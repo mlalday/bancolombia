@@ -7,6 +7,13 @@
     "MANDT":"100",
     "SPRAS":"E",
     "LAND1":"AD",
+    "BLAND":"03",
+    "BEZEI":"Encamp 2"
+   },
+   {
+    "MANDT":"100",
+    "SPRAS":"E",
+    "LAND1":"AD",
     "BLAND":"04",
     "BEZEI":"La Massana"
    }

@@ -6,6 +6,13 @@
    {
     "MANDT":"100",
     "LAND1":"AD",
+    "BLAND":"03",
+    "FPRCD":"",
+    "HERBL":""
+   },
+   {
+    "MANDT":"100",
+    "LAND1":"AD",
     "BLAND":"04",
     "FPRCD":"",
     "HERBL":""
